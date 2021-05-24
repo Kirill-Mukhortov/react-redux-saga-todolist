@@ -1,0 +1,8 @@
+export const ADD_TODO = 'ADD_TODO'
+export const DELETE_TODO = 'DELETE_TODO'
+export const CHANGE_STATUS = 'CHANGE_STATUS'
+export const CHANGE_STATUS_SAGA = 'CHANGE_STATUS_SAGA'
+export const SEND_EDIT = 'SEND_EDIT'
+export const ADD_EDIT = 'ADD_EDIT'
+export const FETCH_INIT_TODO = 'FETCH_INIT_TODO'
+export const FETCH_INIT_TODO_SAGA = 'FETCH_INIT_TODO_SAGA'
